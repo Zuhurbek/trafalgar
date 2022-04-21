@@ -89,7 +89,7 @@ opacity: 0.5;
   color: #7d7987;
 }
 
-.hero-button{
+.hero-btn{
   display: inline-block;
   padding-left: 40px;
   padding-right: 40px;
@@ -102,7 +102,7 @@ opacity: 0.5;
   cursor: pointer;
 }
 
-.hero-button:hover{
+.hero-btn:hover{
   color: #458ff6;
   background-color: #ffffff;
   box-shadow: 5px 5px 5px 5px #458ff6;
